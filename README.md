@@ -1,4 +1,4 @@
-# Nerdy-Gurdy-alternative-tangents
+# Nerdy-Gurdy alternative tangents
 
 tang1 STL view
 
